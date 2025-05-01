@@ -13,7 +13,7 @@ Este proyecto es una API RESTful para la gestión de productos, desarrollada con
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-repositorio/productos-api.git
+git clone https://github.com/robertocaamanor/prueba-tecnica-ilis-backend.git
 cd productos-api
 ```
 
