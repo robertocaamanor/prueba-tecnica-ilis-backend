@@ -13,7 +13,7 @@ This project is a RESTful API for managing products, developed with **Spring Boo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repository/productos-api.git
+git clone https://github.com/robertocaamanor/prueba-tecnica-ilis-backend.git
 cd productos-api
 ```
 
