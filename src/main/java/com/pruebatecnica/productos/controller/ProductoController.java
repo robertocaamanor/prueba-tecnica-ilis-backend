@@ -22,6 +22,9 @@ public class ProductoController {
             @RequestParam(required = false) String name,
             @RequestParam(required = false) String category,
             @RequestParam(required = false) Boolean inStock) {
+        if (name == null && category == null && inStock == null) {
+            return productoRepository.findAll();
+        }
         return productoRepository.findByQueryParams(name, category, inStock);
     }
 

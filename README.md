@@ -54,8 +54,7 @@ La API estará disponible en `http://localhost:8080/products`.
 
 ## Endpoints de la API
 
-- **GET /products**: Buscar productos con filtros opcionales (`name`, `category`, `inStock`).
-- **GET /products/all**: Obtener todos los productos.
+- **GET /products**: Obtener todos los productos y buscar con filtros opcionales (`name`, `category`, `inStock`).
 - **POST /products**: Crear un nuevo producto.
 
 ## Notas
