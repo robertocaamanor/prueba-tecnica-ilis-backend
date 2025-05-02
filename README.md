@@ -22,7 +22,7 @@ cd productos-api
 Actualiza los detalles de conexión a la base de datos en el archivo `src/main/resources/application.properties`:
 
 ```ini
-spring.datasource.url=jdbc:postgresql://localhost:5432/transacciones_db
+spring.datasource.url=jdbc:postgresql://localhost:5432/transacciones_db // Ejemplo de URL, configurar según tu entorno
 spring.datasource.username=tu_usuario
 spring.datasource.password=tu_contraseña
 ```
