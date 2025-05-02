@@ -61,4 +61,3 @@ La API estará disponible en `http://localhost:8080/products`.
 
 - Asegúrate de que la extensión `unaccent` esté correctamente instalada y accesible en tu base de datos PostgreSQL.
 - Si encuentras problemas con la función `unaccent`, verifica la configuración del esquema y el `search_path` en PostgreSQL.
-```
